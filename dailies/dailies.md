@@ -1,5 +1,20 @@
 # EHT Dailies
 
+## Table of Contents
+
+| Section                    | Jump to                                             |
+| -------------------------- | --------------------------------------------------- |
+| Ads                        | [Ads](#ads)                                         |
+| ├─ Watch                   | [Watch](#watch)                                     |
+| └─ Skip                    | [Skip](#skip)                                       |
+| Daily Routine              | [Daily Routine](#daily-routine)                     |
+| ├─ Immediately After Reset | [Immediately After Reset](#immediately-after-reset) |
+| ├─ 3 Hours After Reset     | [3 Hours After Reset](#3-hours-after-reset)         |
+| ├─ 6 Hours After Reset     | [6 Hours After Reset](#6-hours-after-reset)         |
+| └─ Throughout the Day      | [Throughout the Day](#throughout-the-day)           |
+
+---
+
 ## Ads
 
 ### Watch
