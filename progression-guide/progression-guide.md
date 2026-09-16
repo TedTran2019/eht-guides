@@ -9,6 +9,11 @@ I wish I knew. In addition, to try to make matters as curt as possible for easy 
 
 Rarity goes from: normal, rare, superior, heroic (10-13), legendary (14-18), then ultimate (22+).
 Heroic and above hunters get increasing buffs based on rarity.
+
+| Heroic | Legendary | Ultimate |
+| :-------------------------------------: | :-------------------------------------------: | :-----------------------------------------: |
+| ![Heroic](images/heroic.png){width=30%} | ![Legendary](images/legendary.png){width=30%} | ![Ultimate](images/ultimate.png){width=30%} |
+
 For each stat line on the hero, it goes like:
 
 - White (+0)
@@ -94,7 +99,6 @@ If you're not a masochist, I'd argue this would be the "reasonable" tier list
     - 5 Challenger League matches is a literal nothingburger
     - Double Elite League rewards means you double rate at which you get master gladiator costumes to dismantle for 5 shiny coins. 5 shiny coins is worth 200 gems, so I value this at around 400 gems.
     - All slots of equipment storage is massive QOL but not necessary
-
 **If you do decide to buy VIP packages like basic/premium/all-in-one, ONLY buy from the Chief Club for 10% discount + it's also priced lower for some reason**
 
 #### Everything else
@@ -106,7 +110,6 @@ Doing the above two will immediately save 2+ months of grinding for VWB weapons,
 
 - Chief Club limited costumes: Costume + 600 gems + 10 shiny coins aka 1000 gem value for $4.
   - I don't think this is worth it, but it's maximum gem value per dollar.
-
 **To summarize, you do NOT need to spend any money on this game and things like VIP simply aid QOL. To maximize enjoyment, I'd get ad skip to get ad goblin gems (2700 gems a month), and possibly buy auto-dungeon when I have a 326 or 376 dungeon slave and needed helmets. You could also make a script (at risk of ban) to auto-dungeon for you, but the probability of getting banned is low unless you're running it more than 5+ hours at a time. Making a script to also go through all 15 ad goblin ads (or the entire ad routine) is also trivial if you're hellbent on saving $7.69**
 
 ## Sources
