@@ -3,18 +3,6 @@
 The goal of this guide is to put all the necessary information in one place plus include information
 I wish I knew. In addition, to try to make matters as curt as possible for easy quick reference.
 
-## Table of Contents
-
-- [Game Knowledge TL;DR](#game-knowledge-tldr)
-  - [Hunters](#hunters)
-    - [What are perfect and good characteristics?](#what-are-perfect-and-good-characteristics)
-    - [Who do I keep? Minimum criteria](#who-do-i-keep-minimum-criteria)
-    - [Should I reroll?](#should-i-reroll)
-  - [I want to drop real world dough on this game, what's worth it?](#i-want-to-drop-real-world-dough-on-this-game-whats-worth-it)
-    - [Passes](#passes)
-    - [Everything else](#everything-else)
-- [Sources](#sources)
-
 ## Game Knowledge Tl;DR
 
 ### Hunters

@@ -2,19 +2,6 @@
 
 Last updated Sept 15, 2026
 
-## Table of Contents
-
-- [Team A](#team-a)
-  - [PvP Roster (5 Units)](#pvp-roster-5-units)
-  - [PvE Roster (13 Units)](#pve-roster-13-units)
-  - [Team A Optional Flex Units](#team-a-optional-flex-units)
-- [Team B](#team-b)
-  - [PvP Roster (5 Units)](#pvp-roster-5-units-1)
-  - [PvE Roster (13 Units)](#pve-roster-13-units-1)
-  - [Team B Optional Flex Units](#team-b-optional-flex-units)
-  - [Team B Notes](#team-b-notes)
-- [Additional Notes](#additional-notes)
-
 ## Team A
 
 ### PvP Roster (5 Units)
