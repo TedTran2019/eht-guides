@@ -3,6 +3,16 @@
 The goal of this guide is to put all the necessary information in one place plus include information
 I wish I knew. In addition, to try to make matters as curt as possible for easy quick reference.
 
+## Table of Contents
+
+| Section | Jump to |
+| --- | --- |
+| Game Knowledge TL;DR | [Game Knowledge TL;DR](#game-knowledge-tldr) |
+| └─ Hunters | [Hunters](#hunters) |
+| &nbsp;&nbsp;&nbsp;&nbsp;├─ Who Do I Keep? Minimum Criteria | [Who Do I Keep? Minimum Criteria](#who-do-i-keep-minimum-criteria) |
+| &nbsp;&nbsp;&nbsp;&nbsp;└─ Should I Reroll? | [Should I Reroll?](#should-i-reroll) |
+| Sources | [Sources](#sources) |
+
 ## Game Knowledge Tl;DR
 
 ### Hunters
