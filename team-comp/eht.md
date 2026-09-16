@@ -1,5 +1,7 @@
 # EHT Optimized Team Roster
 
+Last updated Sept 15, 2026
+
 ## Table of Contents
 
 | Section                | Jump to                                                   |

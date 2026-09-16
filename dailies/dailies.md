@@ -82,3 +82,7 @@
 * Set Bounties
 * Restock Potions
 * Ruins Excavation
+* Wandering Merchant
+  * Appears for three hours three times a day
+  * 4 am PT, 12 pm PT, 8 pm PT
+  * Make sure to refresh his shop using mana essence
