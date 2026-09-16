@@ -4,20 +4,16 @@ Last updated Sept 15, 2026
 
 ## Table of Contents
 
-| Section                | Jump to                                                   |
-| ---------------------- | --------------------------------------------------------- |
-| Team A                 | [Team A](#team-a)                                         |
-| ├─ PvP Roster          | [PvP Roster (5 Units)](#pvp-roster-5-units)               |
-| ├─ PvE Roster          | [PvE Roster (13 Units)](#pve-roster-13-units)             |
-| └─ Optional Flex Units | [Team A Optional Flex Units](#team-a-optional-flex-units) |
-| Team B                 | [Team B](#team-b)                                         |
-| ├─ PvP Roster          | [PvP Roster (5 Units)](#pvp-roster-5-units-1)             |
-| ├─ PvE Roster          | [PvE Roster (13 Units)](#pve-roster-13-units-1)           |
-| ├─ Optional Flex Units | [Team B Optional Flex Units](#team-b-optional-flex-units) |
-| └─ Notes               | [Team B Notes](#team-b-notes)                             |
-| Additional Notes       | [Additional Notes](#additional-notes)                     |
-
----
+- [Team A](#team-a)
+  - [PvP Roster (5 Units)](#pvp-roster-5-units)
+  - [PvE Roster (13 Units)](#pve-roster-13-units)
+  - [Team A Optional Flex Units](#team-a-optional-flex-units)
+- [Team B](#team-b)
+  - [PvP Roster (5 Units)](#pvp-roster-5-units-1)
+  - [PvE Roster (13 Units)](#pve-roster-13-units-1)
+  - [Team B Optional Flex Units](#team-b-optional-flex-units)
+  - [Team B Notes](#team-b-notes)
+- [Additional Notes](#additional-notes)
 
 ## Team A
 
@@ -48,8 +44,8 @@ Last updated Sept 15, 2026
 
 ### Team A Optional Flex Units
 
-* **3 Fielders:** Inquisitor Holy Knight, Destroyer Battle Commander, Equestrian Overlord
-* **1 Bosser:** Arcane Archer Deadeye, Destroyer Sword Emperor, Deathbringer/Overlord
+- **3 Fielders:** Inquisitor Holy Knight, Destroyer Battle Commander, Equestrian Overlord
+- **1 Bosser:** Arcane Archer Deadeye, Destroyer Sword Emperor, Deathbringer/Overlord
 
 ---
 
@@ -82,17 +78,17 @@ Last updated Sept 15, 2026
 
 ### Team B Optional Flex Units
 
-* **3 Fielders:** Inquisitor Holy Knight, Destroyer Battle Commander, Equestrian Overlord
-* **2 Bossers:** Arcane Archer Deadeye, Destroyer Sword Emperor, Deathbringer/Overlord
+- **3 Fielders:** Inquisitor Holy Knight, Destroyer Battle Commander, Equestrian Overlord
+- **2 Bossers:** Arcane Archer Deadeye, Destroyer Sword Emperor, Deathbringer/Overlord
 
 ### Team B Notes
 
-* If you have enough AOE bossers, you can substitute a fielder instead.
-* **3 Deathbringers** are needed for maximum field yield.
+- If you have enough AOE bossers, you can substitute a fielder instead.
+- **3 Deathbringers** are needed for maximum field yield.
 
 ---
 
 ## Additional Notes
 
-* This is for optimized end game only, DO NOT FOLLOW if you're just starting out
-* Courtesy of tangent_xzero from Dreamers guild discord.
+- This is for optimized end game only, DO NOT FOLLOW if you're just starting out
+- Courtesy of tangent_xzero from Dreamers guild discord.

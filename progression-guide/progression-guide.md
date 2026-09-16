@@ -5,13 +5,15 @@ I wish I knew. In addition, to try to make matters as curt as possible for easy 
 
 ## Table of Contents
 
-| Section | Jump to |
-| --- | --- |
-| Game Knowledge TL;DR | [Game Knowledge TL;DR](#game-knowledge-tldr) |
-| └─ Hunters | [Hunters](#hunters) |
-| &nbsp;&nbsp;&nbsp;&nbsp;├─ Who Do I Keep? Minimum Criteria | [Who Do I Keep? Minimum Criteria](#who-do-i-keep-minimum-criteria) |
-| &nbsp;&nbsp;&nbsp;&nbsp;└─ Should I Reroll? | [Should I Reroll?](#should-i-reroll) |
-| Sources | [Sources](#sources) |
+- [Game Knowledge TL;DR](#game-knowledge-tldr)
+  - [Hunters](#hunters)
+    - [What are perfect and good characteristics?](#what-are-perfect-and-good-characteristics)
+    - [Who do I keep? Minimum criteria](#who-do-i-keep-minimum-criteria)
+    - [Should I reroll?](#should-i-reroll)
+  - [I want to drop real world dough on this game, what's worth it?](#i-want-to-drop-real-world-dough-on-this-game-whats-worth-it)
+    - [Passes](#passes)
+    - [Everything else](#everything-else)
+- [Sources](#sources)
 
 ## Game Knowledge Tl;DR
 
@@ -112,14 +114,12 @@ If you're not a masochist, I'd argue this would be the "reasonable" tier list
 - World Boss ($13) and Valiant World Boss ($45) packages are expensive but will allow you to skip all roadblocks. You can jump straight into chaos with a blaze hammer Paladin, then clear the corrupted ranch and Cx1 FB (and beyond) with a glacial bow.
 - Memory fragments are extremely hard to come by in early game, so a few set of Daily Paragon's Memory Pack for $3 each can get you to the stage where you can kill Cx1 FB and actually collect a reasonable amount of them daily.
 
-### Time Saved
-
 Doing the above two will immediately save 2+ months of grinding for VWB weapons, and even more on memory fragments.
 
 - Chief Club limited costumes: Costume + 600 gems + 10 shiny coins aka 1000 gem value for $4.
   - I don't think this is worth it, but it's maximum gem value per dollar.
 
-**To summarize, you do NOT need to spend any money on this game and things like VIP simply aid QOL. To maximize enjoyment, I'd get ad skip to get ad goblin gems (2700 gems a month), and possibly buy auto-dungeon when I have a 326 or 376 dungeon slave and needed helmets. You could also make a script (at risk of ban) to auto-dungeon for you, but the probability of getting banned is low unless you're running it more than 5+ hours at a time. Making a script to also go through all 15 ad goblin ads is also trivial if you're hellbent on saving $7.**
+**To summarize, you do NOT need to spend any money on this game and things like VIP simply aid QOL. To maximize enjoyment, I'd get ad skip to get ad goblin gems (2700 gems a month), and possibly buy auto-dungeon when I have a 326 or 376 dungeon slave and needed helmets. You could also make a script (at risk of ban) to auto-dungeon for you, but the probability of getting banned is low unless you're running it more than 5+ hours at a time. Making a script to also go through all 15 ad goblin ads (or the entire ad routine) is also trivial if you're hellbent on saving $7.69**
 
 ## Sources
 
