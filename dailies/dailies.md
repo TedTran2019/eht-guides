@@ -63,6 +63,7 @@
 * World Boss Raid
 * Valiant World Boss Raid
 * Battle of Victory (10)
+* Log out and back in for welcome gifts
 
 ### 3 Hours After Reset
 
