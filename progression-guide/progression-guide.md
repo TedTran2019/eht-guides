@@ -120,7 +120,7 @@ To summarize, you do NOT need to spend any money on this game and things like VI
 2. Didn't optimize for 2v2 PvP early game, slowing down the time it took to get Mjolnir greatly
 3. Didn't bother doing any ad-gated contents because I hate ads (only started doing once I bought ad skip)
 4. Kept too much trash; stick with bare minimum characters to progress and that's it. You should banish all the trash to ensure maximum throughput.
-5. Used awakening crystals on a dark knight (not useful until A21+)
+5. Used awakening crystals on a dark knight (not useful until A21+). I also made his first class have a stunning ability, so he just has to sit in town forever.
 6. Stuck to lower levels so my team could farm with my Dark Weapon Inquisitor (this is a waste of time, ALL you need is your DW Inquis til' Boost 30).
 7. Stuck with only ONE fielder in boost 30 while farming primal for my Dark Lord. Once your DW Inquis can solo field in boost 30, he can push dungeon quite far for you. Then you can create two more DW Inquisitors to farm all 3 fields to triple gold + primal gear output. However, this is only if you're extremely unlucky and can't get the right gear for your DL even with blue diadem + runes.
 8. Not constantly pushing dungeon; the stats are insane
@@ -135,6 +135,8 @@ To summarize, you do NOT need to spend any money on this game and things like VI
     - Put 5 points into final skill node
 14. Banished non-aggro legendaries instead of keeping them as loot goblins.
 15. Didn't sweep Molar to get metals for index, and to dismantle for shiny coins in the future.
+16. Chased 100% 2x gold, 100% extra materials along with HCM instead of just going full HCM with spare chaos gear on loot goblins.
+17. Overly careful about resources like scrolls, runes, gear, etc. Your time is more important than slightly faster progress; most things don't need to be optimized and you should just afk and chill.
 
 ## Sources
 
