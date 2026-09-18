@@ -37,7 +37,7 @@ Good characteristics are typically:
 - Swift > Strong > Sharp
 - Sharp is technically better until you can max out crit chance without it, e.g high index completion.
 
-#### Who do I keep? Minimum criteria
+#### Who do I keep? Minimum criteria progression
 
 - Heroics+
 - 13 point heroics with perfect characteristic (mos, heroic, charismatic) and orange attack speed line, legendaries+
@@ -45,7 +45,8 @@ Good characteristics are typically:
 
 - Perfect heroics, legendaries with good characteristics, non-berserker legendaries w/ any characteristics, 18 stat legendaries
   - Non-aggroing legendaries can be used as loot goblins (100% chance of 2x gold, 100% chance of extra materials, then in the future high class material drop chance)
-    - Beserkers always aggro and can't be used, Dark Knights should avoid shadow lancer
+    - Beserkers always aggro and can't be used
+    - Dark Knights should avoid shadow lancer
     - Paladins can be changed to dark weapon and not aggro
 
 - Legendaries+ with perfect characteristics and 18 stat legendaries (for rerolling characteristics)
@@ -65,7 +66,7 @@ The only main purpose of a paladin is to carry you to boost 30, and having him b
 characteristic isn't a major boon over having him be a random characteristic heroic. You will get hundreds of heroics
 in your first month of playing, so don't worry about it.
 
-Your main true roadblocks in the game will be two things:
+Your main true roadblocks early on in the game will be two things:
 
 1. Creating a Blizzard Dark Lord (Sorcerer) that can survive Chaos 1 field
 2. Defeating corrupted ranch and Chaos 1 field boss (Cx1 FB)
@@ -99,7 +100,7 @@ If you're not a masochist, I'd argue this would be the "reasonable" tier list
     - 5 Challenger League matches is a literal nothingburger
     - Double Elite League rewards means you double rate at which you get master gladiator costumes to dismantle for 5 shiny coins. 5 shiny coins is worth 200 gems, so I value this at around 400 gems.
     - All slots of equipment storage is massive QOL but not necessary
-**If you do decide to buy VIP packages like basic/premium/all-in-one, ONLY buy from the Chief Club for 10% discount + it's also priced lower for some reason**
+- **If you do decide to buy VIP packages like basic/premium/all-in-one, ONLY buy from the Chief Club for 10% discount + it's also priced lower for some reason**
 
 #### Everything else
 
@@ -110,7 +111,30 @@ Doing the above two will immediately save 2+ months of grinding for VWB weapons,
 
 - Chief Club limited costumes: Costume + 600 gems + 10 shiny coins aka 1000 gem value for $4.
   - I don't think this is worth it, but it's maximum gem value per dollar.
-**To summarize, you do NOT need to spend any money on this game and things like VIP simply aid QOL. To maximize enjoyment, I'd get ad skip to get ad goblin gems (2700 gems a month), and possibly buy auto-dungeon when I have a 326 or 376 dungeon slave and needed helmets. You could also make a script (at risk of ban) to auto-dungeon for you, but the probability of getting banned is low unless you're running it more than 5+ hours at a time. Making a script to also go through all 15 ad goblin ads (or the entire ad routine) is also trivial if you're hellbent on saving $7.69**
+
+To summarize, you do NOT need to spend any money on this game and things like VIP simply aid QOL. To maximize enjoyment, I'd get ad skip to get ad goblin gems (2700 gems a month), and possibly buy auto-dungeon when I have a 326 or 376 dungeon slave and needed helmets. You could also make a script (at risk of ban) to auto-dungeon for you, but the probability of getting banned is low unless you're running it more than 5+ hours at a time. Making a script to also go through all 15 ad goblin ads (or the entire ad routine) is also trivial if you're hellbent on saving $7.69.
+
+## Mistakes I've personally made and you should avoid
+
+1. Didn't reroll for a good start
+2. Didn't optimize for 2v2 PvP early game, slowing down the time it took to get Mjolnir greatly
+3. Didn't bother doing any ad-gated contents because I hate ads (only started doing once I bought ad skip)
+4. Kept too much trash; stick with bare minimum characters to progress and that's it. You should banish all the trash to ensure maximum throughput.
+5. Used awakening crystals on a dark knight (not useful until A21+)
+6. Stuck to lower levels so my team could farm with my Dark Weapon Inquisitor (this is a waste of time, ALL you need is your DW Inquis til' Boost 30).
+7. Stuck with only ONE fielder in boost 30 while farming primal for my Dark Lord. Once your DW Inquis can solo field in boost 30, he can push dungeon quite far for you. Then you can create two more DW Inquisitors to farm all 3 fields to triple gold + primal gear output. However, this is only if you're extremely unlucky and can't get the right gear for your DL even with blue diadem + runes.
+8. Not constantly pushing dungeon; the stats are insane
+9. Bought blue diadem rather late; this helps greatly for making your Dark Lord tank Chaos 1 successfully.
+10. I didn't rush to kill Super Boost 1 FB to unlock VWB as fast as possible. The most important thing here is to ensure that your team has no stunners who will break aggro, and to slightly drag the boss out so summons don't interfere. If you're slightly weak, you can use these tactics: setup town for pushing field boss, slightly dragging boss out so summons can't interfere with fight, potion micro'ing, barbarian buff micro'ing
+11. Didn't realize I had a ton of stunners who were breaking my bridge and bossing setups.
+12. Didn't rush to clear Corrupted Ranch. Pet gear is OP and this also gives you lots of chaos pieces-- you won't get many chaos piece drops early on and once your supply from achievements run out, this is an easy way to get a lot. You really only need your DL + 2 Demon Conjurers here. I couldnt clear this right away because I was sloppy and only had one good Demon Conjurer, with my second being poorly built. (And my 3rd/4th being absolutely worthless). You do NOT need world boss weapons or paragoned conjurers to clear this.
+13. Didn't optimize memory fragment usage. For most paragon skill trees, this is a good progression path.
+    - Unlock 3rd skill node: `5 → 5 → 1`
+    - Max 1st and 2nd skill nodes: `10 → 10 → 1`
+    - Unlock final skill node
+    - Put 5 points into final skill node
+14. Banished non-aggro legendaries instead of keeping them as loot goblins.
+15. Didn't sweep Molar to get metals for index, and to dismantle for shiny coins in the future.
 
 ## Sources
 
@@ -119,3 +143,6 @@ Doing the above two will immediately save 2+ months of grinding for VWB weapons,
 3. [EHT Comprehensive Guide by Sasvatara-1](https://docs.google.com/document/d/1Cr8gOvt64vAyNKOV-iZpNagUNDikSUHd/view)
 4. [ETH - Bx30 to Chaosx1 expanded](https://docs.google.com/document/d/1WDPpP4UVB2BGuatW2X4gajrFYcpAfBZ3hKrEdp5g-jQ/view)
 5. [Chaos to Abyss Quickie Guide](https://drive.google.com/file/d/1M4qHfAg1duYdnQxBhcDAL5mpkfM6QFvn/view)
+6. [TheGoddess](https://discord.gg/Jgppns6HW)
+7. [Dreamers](https://discord.gg/CYxrNPnaQ)
+8. [OXO - EHT Wiki & Community](https://discord.gg/oxoverse)
