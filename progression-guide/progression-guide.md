@@ -137,6 +137,7 @@ To summarize, you do NOT need to spend any money on this game and things like VI
 15. Didn't sweep Molar to get metals for index, and to dismantle for shiny coins in the future.
 16. Chased 100% 2x gold, 100% extra materials along with HCM instead of just going full HCM with spare chaos gear on loot goblins.
 17. Overly careful about resources like scrolls, runes, gear, etc. Your time is more important than slightly faster progress; most things don't need to be optimized and you should just afk and chill.
+18. Didn't know that ALL pets and pet equipment are "refundable". E.g, if you invest 7 pets to level up a B-rank pet to level 4, then release that pet, you get all the resources back with no penalty. The same goes for dismantling pet equipment.
 
 ## Sources
 
