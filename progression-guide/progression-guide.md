@@ -26,11 +26,11 @@ For all intents and purposes, heroic (10+ points) and above is all that matters.
 
 Perfect characteristics:
 
-- Charismatic on one ranger OR barbarian (You only need ONE)
-- Man of Steel on sorcerer
-- Heroic on ranger
-- Man of Steel or Heroic on dark knight, paladin, berserker
-  - Man of Steel > Heroic, though.
+- Nimble: You need 1 nimble Paladin and Sorc for late game JWT/dungeon pushing
+- Charismatic on a unit or two depending on PvP/Dungeon team comps
+- Man of Steel on sorcerer and berserkers
+- Heroic or nimble (JWT) on rangers, Man of Steel can be fine for PvP too
+- Man of Steel and Heroic on paladins and dark knights
 
 Good characteristics are typically:
 
@@ -89,9 +89,9 @@ If you're not a masochist, I'd argue this would be the "reasonable" tier list
 
 - For VIP, aka daily bonuses on a monthly pass that are worth it:
   - Dungeon and Hunting Perks is only $3.49
-    - Auto-dungeon makes token events easy, gives you unlimited phoenix feathers, and is the main way to get helmets
+    - Auto-dungeon makes token events easy, gives you unlimited phoenix feathers, helps dailies, and is the main way to get helmets
     - Field boss gives 420 relic tokens a month, this doubles it. If 20 relic tokens are valued at 100 gems, this is valued at 2100 gems. This essentially speeds up your relic progression by 11% late game (if you're using all challenger tokens and BOV medals on relics).
-  - Ad skip is $7.69 and saves you 4 hours of your life a month.
+  - Ad skip is $7.69 and saves you a lot of your life if you want the 90 daily gems + doubling WT + near doubling ranch
 - Everything else among VIP that is not worth it:
   - Gem and EXP perk: 900 gems a month + 50% extra materials (not HCM)
   - Equipment and Rune Storage perks: 200 extra equipment slots, 50 extra rune slots
@@ -113,6 +113,40 @@ Doing the above two will immediately save 2+ months of grinding for VWB weapons,
   - I don't think this is worth it, but it's maximum gem value per dollar.
 
 To summarize, you do NOT need to spend any money on this game and things like VIP simply aid QOL. To maximize enjoyment, I'd get ad skip to get ad goblin gems (2700 gems a month), and possibly buy auto-dungeon when I have a 326 or 376 dungeon slave and needed helmets. You could also make a script (at risk of ban) to auto-dungeon for you, but the probability of getting banned is low unless you're running it more than 5+ hours at a time. Making a script to also go through all 15 ad goblin ads (or the entire ad routine) is also trivial if you're hellbent on saving $7.69.
+
+### Pets and Mount Equipment
+
+- Pretty much all resources invested into pets and pet equipment are refunded upon banishment or dismantling, so it's okay to use B rank stuff if you'd like.
+- Pets are pretty easy to decide what to keep:
+  - Fierce Attack + Swift Motion
+  - Fierce Attack + Bravery
+  - Steadfast Defense + Swift Motion
+  - Glittering Luck + Fortune
+
+- Pet equipment
+  - Horseshoe: (movement speed, attack speed, movement speed, special, crit chance)
+    - Steel: reduce damage taken by 10% when not immobilized
+    - Deceitful: increase damage dealt to slowed enemies by 10%
+    - Corrupted: amplifies enemy attack reduction debuff by 30%
+    - Divine: amplifies recovery and shield skill by 30%
+  - Saddle: (reduce damage taken, defense, reduce damage taken, special, stamina)
+    - Steel: amplifies defense by 30% when not immobilized
+    - Deceitful: reduces damage taken from enemies under slowing status by 15%
+    - Corrupted: amplifies damage from attacks with the defense ignore skill by 10%
+    - Divine: amplifies the defense of nearby allies by 20%
+  - Rein: (attack, crit damage, attack, special, racial damage)
+    - Steel: amplifies attack power by 10% when not immobilized
+    - Deceitful: when normal attack, 25% chance to reduce enemy's attack speed by 50%
+    - Corrupted: amplifies damage taken by enemy skill by 20%
+    - Divine: amplifies attack of nearby allies by 10%
+  - So who gets what?
+    - Depends on progress, what content the character is for, abilities, etc
+    - Horseshoes: majority steel, deceitful if full greed for damage, support blizzard gets corrupted, healers get divine
+    - Saddles: majority steel, supports divine, PvP tank deceitful, corrupted if DPS with defense ignore skill
+    - Reins: majority steel, supports divine, corrupted on DPS damage amplifiers, deceitful full tank
+- Additional tips
+  - One pair of divine saddle + reins per field
+  - Deceitful horseshoe and saddle are very good with solo blizzard DL and/or Guardian HP w/ frost armor
 
 ## Mistakes I've personally made and you should avoid
 
@@ -138,6 +172,9 @@ To summarize, you do NOT need to spend any money on this game and things like VI
 16. Chased 100% 2x gold, 100% extra materials along with HCM instead of just going full HCM with spare chaos gear on loot goblins.
 17. Overly careful about resources like scrolls, runes, gear, etc. Your time is more important than slightly faster progress; most things don't need to be optimized and you should just afk and chill.
 18. Didn't know that ALL pets and pet equipment are "refundable". E.g, if you invest 7 pets to level up a B-rank pet to level 4, then release that pet, you get all the resources back with no penalty. The same goes for dismantling pet equipment.
+19. Started using bloodfist too early. A level 3 bloodfist is tempting, especially when you don't need evasion... but it's also really bad without high crit chance and decent attack. Having 400% crit damage with only 40% attack ends up being very mediocre. Also, Sylph belt's skill doesn't apply into the 50% crit limit because it's an active.
+20. Didn't use inheritance to boost chaos gear to 3M... this isn't a waste because you can use the same gear to boost abyss to 3M as well without spending additional gems.
+21. I spent my first 2.5 months playing spending 100 gems on the daily relic tokens-- don't bother with this if you intend to play long term. Once you've maxed relic tokens-- what's next? You'll play for years getting more relic tokens and think, "Damn I shouldn't spent an absurd amount of resources getting it done as fast as possible". Once you're near max index + you're done with inheritance, it's fine to spend gems on this though.
 
 ## Sources
 
@@ -149,3 +186,4 @@ To summarize, you do NOT need to spend any money on this game and things like VI
 6. [TheGoddess](https://discord.gg/Jgppns6HW)
 7. [Dreamers](https://discord.gg/CYxrNPnaQ)
 8. [OXO - EHT Wiki & Community](https://discord.gg/oxoverse)
+9. Special thanks to XZero and Satursan, and Imperial

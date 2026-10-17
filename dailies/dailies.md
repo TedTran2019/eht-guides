@@ -1,6 +1,6 @@
 # EHT Dailies
 
-## Ads
+## Ads (None are necessary)
 
 ### Watch
 
@@ -9,7 +9,7 @@
 - **Elemental Box:** 4 ads (5 Random Hunter Invitations)
 - **Chief’s Support:** Watch ad + potential reroll
 - **Quick Excavations:** 2 ads
-- **Shiny Eggs:** 2 ads
+- **Shiny Egg:** 1 ads
 - **Corrupted Ranch:** 2 ads
 - **Wisdom Tooth:** 2 ads
 
@@ -19,9 +19,21 @@
 - **Ads Goblin — Gold**
 - **Fellowship EXP**
 
-> **Ad Tip:** I’ve personally noticed that on my Android 12 emulator, all of my ads are simple “wait 15 seconds, then click X” ads. On my iPhone, I often get interactive ads that I can get “stuck” in, which makes them a massive waste of time.
->
-> At 15 seconds per ad, **30 ads × 15 seconds = 7.5 minutes/day**, or roughly **3.75 hours/month**.
+### So what do ads give you compared to not watching ads at all?
+
+- 90 gems/day = 2700 gems/month
+  - 300 weekly coupon, 30 daily coupon, 35 repeating daily quests, 50 daily quests
+  - 1200 + 3450 = 4650 gems/month, so with ads you get about 58% more gems/month
+- 5 random hunter invitations + arcane hunter invitation daily
+  - vs just whatever you get from walk-ins and journeys
+- Quick excavations x 2 (Equivalent to 12 hours of excavation)
+  - 50% more excavations
+- 1x Shiny Egg
+  - You get 3 for free daily, so this is 33% more eggs per day
+- Corrupted Ranch 2x tickets
+  - Three free sweeps a day, so two ads would mean 66% more sweeps
+- Wisdom Tooth 2x tickets
+  - Two free sweeps a day, so two ads would mean 100% more sweeps
 
 ## Daily Routine
 
